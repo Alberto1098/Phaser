@@ -1,8 +1,8 @@
 <html>
    <head>
-     <title> </title>
-     <script src="JS/alert.js"></script>
+      <title> </title>
    </head>
    <body>
+       <script src="JS/alert.js"></script>
    </body>
 </html>
