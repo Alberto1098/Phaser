@@ -1,7 +1,7 @@
 <html>
    <head> </head>
    <body>
-     <script  src = "JS/alert.js">
+      <script>
        document.write("Hello World!");
      </script>
    </body>
