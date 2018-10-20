@@ -1,7 +1,9 @@
 <html>
-   <head> </head>
+   <head> 
+      <script src="JS/alert.js"><script>
+      </head>
    <body>
-      <script src="JS/alert.js">
+   <script>
        document.write("Hello World!");
      </script>
    </body>
